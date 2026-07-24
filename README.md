@@ -51,5 +51,4 @@ PHPMailer/           - library used to send emails
 
 - This was made for a school assignment, so it's kept simple on purpose —
   no framework, no fancy architecture, just enough to show the core features working.
-- `config.php` holds real credentials and is not included in git (see `.gitignore`).
-  Use `config.example.php` as a reference for what values are needed.
+
