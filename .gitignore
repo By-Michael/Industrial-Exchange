@@ -1,0 +1,20 @@
+# Config / secrets
+config.php
+
+# Logs
+logs/
+*.log
+
+# Backup files
+*.bak
+
+# Composer / PHP deps (if you later install via composer)
+vendor/
+composer.lock
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
